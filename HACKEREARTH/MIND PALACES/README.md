@@ -1,1 +1,0 @@
-<iframe src=https://www.hackerearth.com/submission/key/5a614bfb04314a43bdc9acff7c667ec8/?theme=dark width='100%' height='995px' frameborder='0' allowtransparency='true' scrolling='yes'></iframe>
