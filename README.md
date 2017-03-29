@@ -3,10 +3,10 @@
 
 The repository contains the code snippets from various online judges based on Competitive programming.
 
-[Codeforces Handle](http://codeforces.com/profile/prashantgpt91)
-[Codechef Handle](https://www.codechef.com/users/prashantgpt91)
-[SPOJ Handle](http://www.spoj.com/users/prashantgpt91/)
-[Topcoder Handle](https://www.topcoder.com/members/vishublc/)
-[HackerEarth Handle](https://www.hackerearth.com/@prashantgpt91)
-[HackerRank Handle](https://www.hackerrank.com/prashantgpt91)
+[Codeforces Handle](http://codeforces.com/profile/prashantgpt91) |
+[Codechef Handle](https://www.codechef.com/users/prashantgpt91) |
+[SPOJ Handle](http://www.spoj.com/users/prashantgpt91/) |
+[Topcoder Handle](https://www.topcoder.com/members/vishublc/) |
+[HackerEarth Handle](https://www.hackerearth.com/@prashantgpt91) |
+[HackerRank Handle](https://www.hackerrank.com/prashantgpt91) |
 [UVa Handle](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=157430)
