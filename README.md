@@ -22,4 +22,4 @@ The code snippets are dedicated to the public domain. Use it as you please with 
 
 **Questions? Comments?**
 
-Post them to the [Repository Issues](https://github.com/prashantgpt91/online-judges-code-snippets/issues). Thanks!
+Post them to the [Repository Issues](https://github.com/x0v/online-judges-code-snippets/issues). Thanks!
