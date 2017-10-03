@@ -1,7 +1,7 @@
-# online-judges-code-snippets
-[![GitHub issues](https://img.shields.io/github/issues/prashantgpt91/online-judges-code-snippets.svg?style=plastic)](https://github.com/prashantgpt91/online-judges-code-snippets/issues) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/prashantgpt91/online-judges-code-snippets/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/prashantgpt91/online-judges-code-snippets.svg?style=plastic)](https://github.com/prashantgpt91/online-judges-code-snippets/network)
+# Competitve programming
 
-The repository contains the code snippets from various online judges based on Competitive programming.
+
+The repository contains the code snippets from my personal practice arranged by topics and sites.
 
 [Codeforces Handle](http://codeforces.com/profile/prashantgpt91) |
 [Codechef Handle](https://www.codechef.com/users/prashantgpt91) |
