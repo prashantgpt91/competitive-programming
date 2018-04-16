@@ -7,3 +7,4 @@
 
    Solution - [recursive](https://gist.github.com/x0v/d29c24a4b832b3369d42a765893c59c8) | [dp](https://gist.github.com/x0v/72368203e5117e07b355a784b7e00c5e) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
+3. [fibonacci](https://gist.github.com/x0v/bbdb129431613465559f7a92ad65f9b7)
